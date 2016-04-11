@@ -1,6 +1,7 @@
 # Test
 Garbage repo for testing things.
 
+<link crossorigin="anonymous" href="https://raw.githubusercontent.com/quilicicf/Test/master/slider/style.css" media="all" rel="stylesheet">
 <div id="slider1" class="csslider infinity">
   <input type="radio" name="slides" id="slides_1"/>
   <input type="radio" name="slides" checked="checked" id="slides_2"/>
@@ -36,4 +37,4 @@ Garbage repo for testing things.
       <label for="slides_6"></label>
     </div>
   </div>
-</div><a href="https://github.com/drygiel" target="_blank"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub"/></a>
+</div>
